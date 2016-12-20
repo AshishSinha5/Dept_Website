@@ -1,0 +1,102 @@
+﻿.jumbotron{
+    background-color:darkred;
+    color:wheat;
+}
+
+.container-fluid{
+    background-color:cadetblue;
+    height:400px;
+    color:white;
+}
+.navbar,.navbar-default{
+    color:white;
+}
+.navbar,.navbar-default>.container-fluid>.collapse,.navbar-collapse>.nav,.navbar-nav>.dropdown>a{
+    border-radius:6px;
+    color:white;
+}
+.navbar,.navbar-default>.container-fluid>.collapse,.navbar-collapse>.nav,.navbar-nav>li>a{
+    border-radius:6px;
+}
+.test1{
+    height:400px;
+    background-color:aquamarine;
+    border-radius:6px;
+}
+.test2{
+    margin-top:20px;
+    height:325px;
+    background-color:blueviolet;
+}
+.test3{
+    background-color:burlywood;
+    height:200px;
+    margin-left:23px;
+    margin-right:10px;
+    margin-top:10px;
+
+}
+.test4{
+    background-color:coral;
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:10px;
+    height:390px;
+}
+.ypanel{
+    margin-top:20px;   
+    margin-bottom:30px;
+}
+.test6{
+    margin-top:25px;
+    height:259px;
+    margin-right:20px;
+}
+.container-scroll {
+    overflow-x: scroll;
+  }
+  .container-scroll > .row {
+    width: 166.66666666%; /* = 100% * 4/3 */
+  }
+#footer {
+  height: 60px;
+  background-color:sandybrown;
+  margin-bottom:-200px;
+  margin-top:20px;
+}
+.test8{
+    margin-top:10px;
+}
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+.testA{
+    background-color:aquamarine;
+    height:200px;
+    margin-top:20px;
+}
+.b{
+    background-color:blueviolet;
+    height:400px;
+    margin-top:20px;
+    margin-left:-20px;
+}
+.c{
+    background-color:brown;
+    height:250px;
+    margin-top:20px;
+    margin-left:-25px;
+
+}
+.d{
+    background-color:brown;
+    height:250px;
+    margin-top:20px;
+    margin-left:10px;
+
+}
