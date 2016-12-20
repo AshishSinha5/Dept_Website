@@ -1,3 +1,5 @@
+<?php echo 'its working' ?>
+
 <!doctype html>
 <html>
 <head>
