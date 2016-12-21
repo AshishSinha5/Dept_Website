@@ -24,33 +24,34 @@
     border-radius:6px;
 }
 .test2{
-    margin-top:20px;
+    margin-top:10px;
     height:325px;
     background-color:blueviolet;
 }
 .test3{
     background-color:burlywood;
-    height:200px;
-    margin-left:23px;
+    height:220px;
+    margin-left:10px;
     margin-right:10px;
     margin-top:10px;
 
 }
+
 .test4{
     background-color:coral;
     margin-left:20px;
-    margin-top:20px;
-    margin-right:10px;
+    margin-top:10px;
+    margin-right:20px;
     height:390px;
 }
 .ypanel{
-    margin-top:20px;   
+    margin-top:10px;   
     margin-bottom:30px;
 }
 .test6{
-    margin-top:25px;
+    margin-top:10px;
     height:259px;
-    margin-right:20px;
+    margin-right:10px;
 }
 .container-scroll {
     overflow-x: scroll;
@@ -77,26 +78,28 @@
 }
 .testA{
     background-color:aquamarine;
-    height:200px;
-    margin-top:20px;
+    height:220px;
+    margin-top:10px;
 }
 .b{
     background-color:blueviolet;
     height:400px;
-    margin-top:20px;
-    margin-left:-20px;
+    margin-top:10px;
+    
 }
 .c{
     background-color:brown;
     height:250px;
-    margin-top:20px;
-    margin-left:-25px;
-
+    margin-top:10px;
+    margin-left:-1px;
+    margin-right:1px;
 }
 .d{
     background-color:brown;
     height:250px;
-    margin-top:20px;
-    margin-left:10px;
-
+    margin-top:10px;
+    margin-left:0px;
+    margin-right:0px;
 }
+
+
