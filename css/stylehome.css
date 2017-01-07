@@ -29,10 +29,15 @@
     background-color:darkcyan;
     height:200px;
 }
+.bottom{
+    background-color:darkseagreen;
+    height:250px;
+}
 .footer{
     background-color:darksalmon;
     height:auto;
     margin-top:10px;
+    margin-bottom:-200px;
 }
 .pad{
     padding-bottom:5px;
